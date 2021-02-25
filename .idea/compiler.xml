@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="zhihu_crwaler" />
+        <module name="zhihu-crwaler" />
         <module name="ZhihuCrawler" />
       </profile>
     </annotationProcessing>

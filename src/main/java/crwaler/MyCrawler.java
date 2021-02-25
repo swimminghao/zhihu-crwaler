@@ -9,7 +9,7 @@ import org.apache.log4j.Logger;
 import java.util.List;
 
 public class MyCrawler {
-    public static String  base = "/Volumes/toshiba - 数据/Users/xh/document/爬虫";//保存图片地址
+    public static String  base = "/share/CACHEDEV2_DATA/documents/收藏/爬虫/知乎";//保存图片地址
     public static String questionTitle;//问题标题
     static Integer totals = 50;
     static Logger log = Logger.getLogger(MyCrawler.class.getName());
